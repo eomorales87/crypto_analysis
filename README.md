@@ -7,10 +7,9 @@ Este proyecto realiza un análisis básico de criptomonedas (Bitcoin y Ethereum)
 crypto_analysis_project/
 │── data/                # Archivos CSV con datos de las criptos
 │── results/             # Resultados (gráficas, reportes)
-│   ├── plots/
-│   └── reports/
+│── src/                 # Script principal
 │── tests/               # Archivos de prueba
-│── script.py            # Script principal
+│── script.py            # Script visualizaciones
 │── README.md            # Documentación
 ```
 
